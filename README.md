@@ -1,10 +1,9 @@
-
 {
   "sites": [
     {
       "key": "乐多采集",
       "name": "乐多",
-      "type": 3,
+      "type": 0,
       "api": "http://cj.leduocaiji.com/inc/api.php",
       "playUrl": "https://ldy.jx.cn/wp-api/ifrty.php?vid=",
       "searchable": 1,
@@ -14,9 +13,138 @@
       "categories": [
         "国产剧",
         "港台剧",
+        "欧美剧",
         "日韩剧",
+        "泰剧",
+        "综艺"
+      ]
+    },
+    {
+      "key": "天空采集",
+      "name": "天空",
+      "type": 1,
+      "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
+      "playUrl": "https://jx.huishij.com/yun/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/laileslie76",
+      "categories": [
+        "国产剧",
+        "港台剧",
         "欧美剧",
         "泰剧",
+        "综艺"
+      ]
+    },
+    {
+      "key": "北斗星采集",
+      "name": "北斗星",
+      "type": 1,
+      "api": "https://api.bdxapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://player.bdxzym3u8.com/dplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/laileslie76",
+      "categories": [
+        "国产剧",
+        "欧美剧",
+        "港台剧",
+        "泰剧",
+        "综艺"
+      ]
+    },
+    {
+      "key": "番茄采集",
+      "name": "番茄",
+      "type": 1,
+      "api": "http://api.fqzy.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "https://dp.fqplayer.com/dplayer/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/laileslie76",
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "欧美剧",
+        "泰剧",
+        "综艺"
+      ]
+    },
+    {
+      "key": "红牛采集",
+      "name": "红牛",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "playUrl": "https://www.tutukiki.com/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/laileslie76",
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "欧美剧",
+        "泰剧",
+        "综艺"
+      ]
+    },
+    {
+      "key": "速播云采集",
+      "name": "速播云",
+      "type": 1,
+      "api": "http://gcku.suboyun.vip/api.php/provide/vod/?ac=list",
+      "playUrl": "https://www.xing1.vip/player/dp/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/laileslie76",
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "欧美剧",
+        "泰剧",
+        "综艺"
+      ]
+    },
+    {
+      "key": "csp_xpath_jpys",
+      "name": "极品影视(XPATH)",
+      "type": 3,
+      "api": "csp_XPATH",
+      "playUrl": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/laileslie76",
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "欧美剧",
+        "泰剧",
+        "福利",
+        "综艺",
+        "其他"
+      ]
+    },
+    {
+      "key": "csp_xpath_555",
+      "name": "555电影(XPath)",
+      "type": 3,
+      "api": "csp_XPath",
+      "playUrl": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/555.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://github.com/laileslie76",
+      "categories": [
+        "电影",
+        "电视剧",
+        "国产剧",
+        "港台剧",
+        "欧美剧",
         "综艺"
       ]
     }
@@ -273,5 +401,8 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ]
+  ],
+"wallpaper":"https://pics in.photos/1280/720/?Blur=10",
+"spider":"https://gitea.com/sawhorse/c/raw/branch/main/jar/baikan
+Jar"
 }
