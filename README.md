@@ -402,7 +402,4 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-"wallpaper":"https://pics in.photos/1280/720/?Blur=10",
-"spider":"https://gitea.com/sawhorse/c/raw/branch/main/jar/baikan
-Jar"
 }
