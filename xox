@@ -11,7 +11,7 @@
 {"key":"360_spider","name":"3️⃣360影视3️⃣","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key": "csp_Kmys","name": "🐱酷猫影视🐱","type":3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Gitcafe","name":"🈯小纸条🈯","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key": "csp_Bliyc","name":"演唱会","type":3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Bliyc","name":"🎶演唱会🎶","type":3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_BBB","name":"🅱️哔哩哔哩🅱️","type":3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"小苹果","name":"🍎小苹果🍎","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"7️⃣酷云七七7️⃣","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
