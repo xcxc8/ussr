@@ -1,6 +1,6 @@
 {
 	
-	"spider": "https://shuyuan.miaogongzi.net/shuyuan/1659713026.txt;md5;2fa165c9aa72ada6ab74a3dedb58ff6b",
+	"spider": "https://github.com/laileslie76/CatVodTVSpider",
 	
 	"lives": [{
 		"group": "redirect",
