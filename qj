@@ -1,6 +1,6 @@
 {
 	
-	"spider": "https://github.com/laileslie76/catvod/blob/main/0820.jar",
+	"spider": "https://github.com/laileslie76/CatVodTVSpider",
 	
 	"lives": [{
 		"group": "redirect",
