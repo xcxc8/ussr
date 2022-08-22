@@ -1,6 +1,6 @@
 {
 	
-	"spider": ”https://github.com/laileslie76/TvJar",
+	"spider": ”https://github.com/drizzle888/CatVodTVSpider",
 	
 	"lives": [{
 		"group": "redirect",
