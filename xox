@@ -1,7 +1,8 @@
 
 {
 // spider
-"spider":" https://github.com/laileslie76/xox-jar/blob/main/qiaogou.jar ",
+
+"spider":"https://daveleeyee2022.github.io/mys/qiaogou.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kYXZlbGVleWVlMjAyMi5naXRodWIuaW8vbXlzL2JhZGR5L3R2L2xpdmUudHh0Cg=="]}]}],
