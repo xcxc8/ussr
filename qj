@@ -1,6 +1,6 @@
 {
 	
-	"spider":”   ",
+	"spider":”https://github.com/xcxc8/CatVodTVSpider",
 	
 	"lives": [{
 		"group": "redirect",
